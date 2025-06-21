@@ -57,7 +57,9 @@ Feature Importance Visualization
 
 ### Screenshots
 A Screenshot on the datasets data
-![]
+<img src="assets/data_head.png" width ="600"/>
+A ViolinPlot on the expect salary expectation post MBA
+<img src="assets/expect_salary.png" width="600"/>
 
 ### Repo Structure
 📦mba-decision-predictor
