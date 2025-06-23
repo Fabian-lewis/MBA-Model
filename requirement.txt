@@ -5,4 +5,3 @@ seaborn
 scikit-learn
 xgboost
 imbalanced-learn
-os
