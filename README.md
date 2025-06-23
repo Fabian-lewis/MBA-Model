@@ -74,7 +74,7 @@ A ViolinPlot on the expect salary expectation post MBA
 ### How to Run
 1. Clone the repo:
 ```
-git clone https://github.com/yourusername/mba-decision-predictor.git
+git clone https://github.com/Fabian-Lewis/MBA-Model.git
 cd mba-decision-predictor
 
 ```
