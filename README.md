@@ -62,9 +62,9 @@ A ViolinPlot on the expect salary expectation post MBA
 <img src="assets/expect_salary.png" width="600"/>
 
 ### Repo Structure
-📦mba-decision-predictor
+📦mba-model
  ┣ 📜 README.md
- ┣ 📜 MBA_Model_Notebook.ipynb
+ ┣ 📜 MBA DECISION ASSIGMENT WEEK 2.ipynb
  ┣ 📂 assets/
  ┃ ┣ 📸 visualizations.png
  ┃ ┗ 📸 confusion_matrix.png
@@ -75,7 +75,7 @@ A ViolinPlot on the expect salary expectation post MBA
 1. Clone the repo:
 ```
 git clone https://github.com/Fabian-Lewis/MBA-Model.git
-cd mba-decision-predictor
+
 
 ```
 2. Install dependencies:
@@ -84,5 +84,5 @@ pip install -r requirements.txt
 ```
 3. Launch the notebook:
 ```
-jupyter notebook MBA_Model_Notebook.ipynb
+MBA DECISION ASSIGMENT WEEK 2.ipynb
 ```
