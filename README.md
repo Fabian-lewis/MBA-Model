@@ -20,45 +20,31 @@ The dataset contains 10,000 entries with 20 features, including:
 The target variable is: Decided to Pursue MBA?
 
 ### Tools & Technologies
-Python (pandas, NumPy, matplotlib, seaborn)
-
-Scikit-learn (Logistic Regression, Random Forest)
-
-XGBoost
-
-Imbalanced-learn (SMOTE)
-
-Google Colab (for cloud-based execution)
+ 1. Python (pandas, NumPy, matplotlib, seaborn)
+ 2. Scikit-learn (Logistic Regression, Random Forest)
+ 3. XGBoost
+ 4. Imbalanced-learn (SMOTE)
+ 5. Google Colab (for cloud-based execution)
 
 ### Machine Learning Process
-Data Preprocessing
-
-Encoding categorical variables
-
-Feature scaling
-
-SMOTE applied to handle class imbalance
-
-Models Trained
-
-Logistic Regression
-
-Random Forest
-
-XGBoost (Full dataset and Top 10 feature version)
-
-Evaluation Metrics
-
-Confusion Matrix
-
-Precision, Recall, F1-score
-
-Feature Importance Visualization
+ - Data Preprocessing
+ - Encoding categorical variables
+ - Feature scaling
+ - SMOTE applied to handle class imbalance
+ - Models Trained
+ - Logistic Regression
+ - Random Forest
+ - XGBoost (Full dataset and Top 10 feature version)
+ - Evaluation Metrics
+ - Confusion Matrix
+ - Precision, Recall, F1-score
+ - Feature Importance Visualization
 
 ### Screenshots
-A Screenshot on the datasets data
+##### A Screenshot on the dataset's data
 <img src="assets/data_head.png" width ="600"/>
-A ViolinPlot on the expect salary expectation post MBA
+
+##### A ViolinPlot on the expect salary expectation post MBA
 <img src="assets/expect_salary.png" width="600"/>
 
 ### Repo Structure
